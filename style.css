@@ -1,0 +1,157 @@
+body {
+    margin: 0px;
+}
+
+.topcontainer {
+    border-style:solid;
+    border-color:black;
+    width: 1578px;
+    height: 700px;
+    background-color: black;
+    }
+.Bild { 
+    margin-top: 25px;
+    margin-left: 40px;
+ }
+ .dota2text {
+    margin-top: -180px;
+    margin-left: 100px;
+    }
+.rightsidecontainer {
+    border-style: solid;
+    border-color: black;
+    width: -2px;
+    height: 1600px;
+    background-color: black;
+    margin-left: 0px;
+}
+.middlecontainer {
+    border-style: solid;
+    width: 1380px;
+    height: 2000px;
+    background-color: #d04e22;
+    margin-top: -2100px;
+    box-shadow:10px 10px 50px 40px black inset;
+}
+.champ1 {
+    margin-top: 300px;
+    margin-left: 200px;
+} 
+.champ1overlay {
+    margin-top: -280px;
+    margin-left: 200px;
+}
+.huvudtext {
+    margin-top: -1980px;
+    margin-left: 550px;
+    color: black;
+    font-family: "Trajan Pro";
+    font-size: 40px;
+}
+.champ1huvudtext {
+    margin-top: 60px;
+    margin-left: 255px;
+    color: black;
+    font-family: "Trajan Pro";
+    font-size: 30px;
+}
+.champ1infotext {
+    margin-left: 500px;
+    width: 730px;
+    font-family: "Trajan Pro";
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: -50px;
+    font-size: 15px;
+    box-shadow:1px 1px 7px 4px black inset;
+}
+.champ2 {
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+.champ2overlay {
+    margin-top: -280px;
+    margin-left: 200px;
+}
+.champ2huvudtext {
+    margin-top: -380px;
+    margin-left: 260px;
+    color: black;
+    font-family: "Trajan Pro";
+    font-size: 30px;
+}
+.champ2infotext {
+    width: 730px;
+    font-family: "Trajan Pro";
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 185px;
+    margin-left: 500px;
+    font-size: 15px;
+    box-shadow:1px 1px 7px 4px black inset;
+
+}
+.champ3 {
+    margin-top: 480px;
+    margin-left: 200px;
+}
+.champ3overlay {
+    margin-top: -280px;
+    margin-left: 200px;
+}
+.champ3huvudtext {
+    margin-top: -380px;
+    margin-left: 250px;
+    font-size: 30px;
+    font-family: "Trajan Pro";
+}
+.champ3infotext {
+    width: 730px;
+    font-family: "Trajan Pro";
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 160px;
+    margin-left: 500px;
+    font-size: 15px;
+    box-shadow:1px 1px 7px 4px black inset;
+}
+.link1 {
+    margin-left: 1450px;
+    margin-top: -1400px;
+    position: fixed;
+
+}
+a:link, a:visited {
+    margin-left: 0px;
+    margin-top: 0px;
+    background-color: #d04e22;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
+
+
+.copyright {
+height:40px;width:100%;
+background: #333;
+position:absolute;
+bottom:-1534px;
+left:0;
+right:0;
+margin-left: auto;
+margin-right:auto;
+color:#FFFFFF;
+font: normal 13px verdana, sans-serif;
+border-top:2px solid #d04e22 
+
+}
